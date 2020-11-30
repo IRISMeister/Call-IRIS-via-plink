@@ -1,0 +1,1 @@
+SuperUserSYSSet tVars("SRCDIR")="F:\ISJ\WorkAtHome\git\Call-IRIS-via-plink\project\"Do $SYSTEM.OBJ.Load(tVars("SRCDIR")_"MyApps\Installer.cls","ck")Do ##class(MyApps.Installer).setup(.tVars)h

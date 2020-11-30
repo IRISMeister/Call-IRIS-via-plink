@@ -1,0 +1,1 @@
+SuperUserSYSzn "myapp"Set ^UnitTestRoot = "F:\ISJ\WorkAtHome\git\Call-IRIS-via-plink\project\UnitTest"Do ##class(MyApp.TestUtil).RunTest()h
